@@ -6,6 +6,7 @@ Requisitos:tener instalado node y mongo db
 Situarse en el escritorio abrir terminal poner el siguiente comando
 
 1-backend git clone https://github.com/MirkoGabriel/backendSchoolMern.git
+
 2-frontend git clone https://github.com/MirkoGabriel/frontendSchoolMern.git
 
 3-crear una carpeta llamada mernEscuela
