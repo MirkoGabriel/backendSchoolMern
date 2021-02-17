@@ -4,10 +4,9 @@ PASOS A SEGUIR PARA LEVANTAR LA APP LOCALMENTE (esta pensado en linux ubuntu)
 Requisitos:tener instalado node y mongo db
 
 Situarse en el escritorio abrir terminal poner el siguiente comando
-1-backend
-   git clone https://github.com/MirkoGabriel/backendSchoolMern.git
-2-frontend
-  git clone https://github.com/MirkoGabriel/frontendSchoolMern.git
+
+1-backend git clone https://github.com/MirkoGabriel/backendSchoolMern.git
+2-frontend git clone https://github.com/MirkoGabriel/frontendSchoolMern.git
 
 3-crear una carpeta llamada mernEscuela
 
