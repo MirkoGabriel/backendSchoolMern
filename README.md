@@ -22,12 +22,14 @@ mongorestore --archive=”milonga” --db=mernEscuela (importar bbdd)
 7-abrir visualStudioCode u  otro editor de texto
 
 8-en la terminal pararse en mernEscuela/backendSchoolMern y poner
-  -npm install (instala las dependencias)
-  -npm run dev (inicia el server y verifica la bbdd)
+  
+  - npm install (instala las dependencias)
+  - npm run dev (inicia el server y verifica la bbdd)
 
 9-en la terminal pararse en mernEscuela/frontendSchoolMern y poner
-  -npm install (instala las dependencias)
-  -npm start (inicia la app de reacr)
+  
+  - npm install (instala las dependencias)
+  - npm start (inicia la app de reacr)
 
 10- probar app
 
