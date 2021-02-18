@@ -1,5 +1,5 @@
 # backendSchoolMern
-PASOS A SEGUIR PARA LEVANTAR LA APP LOCALMENTE (esta pensado en linux ubuntu)
+## Guia Levantar App Localmente (esta pensado en linux ubuntu)
 
 Requisitos:tener instalado node y mongo db
 
